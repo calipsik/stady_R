@@ -1,1 +1,1 @@
-# stady_R
+learning to program in the "Ruby" 
